@@ -1,1 +1,1 @@
-This is a listing directory readme
+This is a shell command readme
