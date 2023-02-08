@@ -1,1 +1,1 @@
-This is a current working directory readme
+This is a listing directory readme
